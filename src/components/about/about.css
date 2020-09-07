@@ -1,0 +1,28 @@
+#about h2{
+    font-size: none;
+    
+}
+h2{
+    font-size:none;
+}
+
+.aboutme{
+    font-size:100px;
+}
+.aboutContent {
+  font-family: "Poppins", Arial, sans-serif;
+  background: #2B2B2B;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #999999;
+}
+.address{
+ font-family: "Poppins", Arial, sans-serif;
+  background: #2B2B2B;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #999999;
+
+}
